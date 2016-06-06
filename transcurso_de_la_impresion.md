@@ -1,0 +1,2 @@
+# Transcurso de la impresión
+
