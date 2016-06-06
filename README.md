@@ -16,3 +16,9 @@ Este obra está bajo una licencia de [Creative Commons Reconocimiento-NoComercia
 
 **Autor: Raúl Pérula-Martínez**
 
+
+Este es el manual de usuario de la impresora de la Asociación de Robótica (ASROB), llamada **HIJA**. HIJA es una impresora 3D de tipo **Prusa Air 2**.
+A continuación se detalla la guía recomendada a seguir para poder imprimir en dicha impresora.
+
+**Este manual es una guía y nunca sustituirá la formación previa de un operador.**
+
