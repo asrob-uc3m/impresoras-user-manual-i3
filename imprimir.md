@@ -17,7 +17,7 @@ En este momento la impresora comenzará a imprimir y habrá que **estar pendient
 
 **Nunca dejar la impresora sin supervisión por un tiempo superior a 10-15 minutos, podría haber una complicación y romperse la impresora.**
 
-
+<img src="7.png" alt="7" height="600" width="500" align="middle">
 
 *Figura 16: Ejemplo de una primera capa correcta*
 
