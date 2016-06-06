@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Cover/Index](README.md)
 * Recomendaciones previas
 
