@@ -70,10 +70,9 @@ Estas deberán estar siempre que se esté en modo manual en:
 ●	Plataforma: 120º.
 	
 
+<img src="c.png" alt="c" height="600" width="500" align="middle">
 
-
-
-
+*Figura 5. Pestaña Control Manual.*
 
 
 
