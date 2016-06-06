@@ -1,4 +1,4 @@
 # Summary
 
-* Recomendaciones previas
+* [Recomendaciones previas](recomendaciones_previas.md)
 
