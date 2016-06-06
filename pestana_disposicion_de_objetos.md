@@ -24,5 +24,5 @@ Además, en este menú se puede rotar y trasladar las piezas para un mejor posic
 
 Por último, en la siguiente imagen se puede observar cómo quedarían las piezas en la vista 3D.
 
-<img src="G.png" alt="G" height="300" width="600" align="middle">
+<img src="G.png" alt="G" height="300" width="700" align="middle">
 
