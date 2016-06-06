@@ -1,6 +1,7 @@
 # Pestaña Slicer (Configuración del G-Code)
 
 En esta pestaña, mostrada en la siguiente figura, se puede acceder a la configuración de la impresora para la pieza a imprimir.
+
  
 *Figura 10. Pestaña Slicer.*
 
@@ -26,4 +27,4 @@ Utilizar entre 1 y 3 layers para el extra shell; y entre 0.05 y 0.8 para el infi
 
 Por último, guardar el estado de las modificaciones pulsando **Save All** y cerrar la ventana. En la pestaña en la que estábamos, darle al botón **Slice con Skeinforge** para generar el **G-Code**. Aparecerá una ventana mientras se genera.
  
-Figura 13. Generando el G-Code.
+*Figura 13. Generando el G-Code.*
