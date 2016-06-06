@@ -2,5 +2,5 @@
 
 * [Cover](README.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
-* Preparación de la impresora
+* [Preparación de la impresora](preparacion_de_la_impresora.md)
 
