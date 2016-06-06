@@ -1,0 +1,2 @@
+# Pestaña disposicion de objetos
+
