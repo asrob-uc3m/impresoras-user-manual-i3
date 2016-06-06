@@ -1,5 +1,6 @@
 # Recomendaciones previas
 
+
 Antes de comenzar a usar la impresora 3D, “HIJA”, debemos tener en cuenta una serie de consideraciones o recomendaciones.
 
 * ** Fijación de piezas a la base caliente**
@@ -10,7 +11,9 @@ Existen varias maneras de conseguir una correcta fijación de las piezas a impri
 
 Es el método tradicional. Totalmente válido pero que no da unos resultados muy buenos para piezas con paredes finas o esquinadas.
 
-![](kapton.jpg)
+<img src="kapton.jpg" alt="kapton" height="100" width="100" align="middle">
+
+
 
 ***Acetona***
 
@@ -22,7 +25,8 @@ Si no queremos que nuestras piezas se despeguen debemos usar acetona. El procedi
 4.	Esparcir por las esquinas de la primera capa de la pieza de manera que la acetona toque tanto la pieza como la base.
 No es necesario pausar la impresión. Tampoco es necesario esperar a que se haga la primera capa entera si se conoce dónde se va a imprimir la pieza exactamente.
 
-![](acetona.png)
+<img src="acetona.png" alt="acetona" height="180" width="120" align="middle">
+
 
 ***Laca***
 
@@ -31,4 +35,6 @@ Este es uno de los últimos métodos descubiertos, da muy buenos resultados y la
 1.	Para evitar que se despegue la pieza a medida que se está imprimiendo, se puede utilizar laca (probado con laca marca Nelly).
 2.	Esparcir la laca sobre la base antes de comenzar a imprimir para un mejor agarre del plástico en la base.
 
-![](nelly.jpg)
+<img src="nelly.jpg" alt="nelly" height="180" width="180" align="middle">
+
+
