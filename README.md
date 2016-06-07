@@ -14,7 +14,7 @@
 Este obra está bajo una licencia de [Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported.
 ](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES)
 
-**Autores: Jennifer Gago (2016-presente), Juan G Victores (2016-presente), Raúl Pérula-Martínez (2012-2015: [enlace](https://docs.google.com/document/d/1b7sLQl3vPjp7CNvayk5mEjHVgoPj9QuWfPiRglXKoq4/pub))**
+**Autores: Jennifer Joana Gago Muñoz (2016-presente), Juan G Victores (2016-presente), Raúl Pérula-Martínez (2012-2015: [enlace](https://docs.google.com/document/d/1b7sLQl3vPjp7CNvayk5mEjHVgoPj9QuWfPiRglXKoq4/pub))**
 
 
 Este es el manual de usuario de la impresora de la Asociación de Robótica (ASROB), llamada **HIJA**. HIJA es una impresora 3D de tipo **Prusa Air 2**.
