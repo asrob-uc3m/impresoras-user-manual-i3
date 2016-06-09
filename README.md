@@ -36,4 +36,4 @@ Este es el manual de usuario de las impresoras de la Asociación de Robótica de
 
 * 
 Read me at: [GitBook](https://www.gitbook.com/book/asrobuc3m/impresoras-user-manual-i3/details)
-* Hosted at: [Gihub](https://github.com/asrob-uc3m/impresoras-user-manual-i3)
+* Hosted at: [Github](https://github.com/asrob-uc3m/impresoras-user-manual-i3)
