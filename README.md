@@ -29,5 +29,11 @@ Este obra está bajo una licencia de [Creative Commons Reconocimiento-NoComercia
 
 Este es el manual de usuario de las impresoras de la Asociación de Robótica de la Universidad Carlos III de Madrid (ASROB), llamadas ***Blacky*** e ***Hija Resurrection***. Ambas son impresoras 3D de tipo **Prusa Air 2**.
 
+
+
+
 **Este manual es una guía y nunca sustituirá la formación previa de un operador.**
 
+* 
+Read me at: [GitBook](https://www.gitbook.com/book/asrobuc3m/impresoras-user-manual-i3/details)
+* Hosted at: [Gihub](https://github.com/asrob-uc3m/impresoras-user-manual-i3)
