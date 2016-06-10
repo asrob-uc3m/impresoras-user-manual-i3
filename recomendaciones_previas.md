@@ -10,7 +10,7 @@ Existen varias maneras de conseguir una correcta fijación de las piezas a impri
 
 ***Laca***
 
-El uso de laca es un método que da muy buenos resultados y cuya fijación es muy buena para la mayoría de las piezas. Este es el método de fijación más utilizado en el laboratorio por sus buenos resultados con el PLA.
+El uso de laca es un método que da muy buenos resultados y cuya fijación es eficaz para la mayoría de las piezas. Este es el método de fijación más utilizado en el laboratorio por sus buenos resultados con el PLA (ácido poliláctico de origen vegetal usado actualmente como filamento en las impresoras 3D del Departamento de Robótica de la UC3M).
 
 1.	Para evitar que se despegue la pieza a medida que se está imprimiendo, se puede utilizar laca (probado con laca marca Nelly).
 2.	Esparcir la laca sobre la base antes de comenzar a imprimir para un mejor agarre del plástico en la base.
@@ -23,7 +23,7 @@ Es el método más arcaico. Totalmente válido pero que no da unos resultados mu
 
 <img src="kapton.jpg" alt="kapton" height="100" width="100" align="middle">
 
-*Por la introducción del uso del PLA en el laboratorio de robótica, un plástico que se adhiere mucho mejor a la cama caliente, el Kapton ha pasado a estar en deshuso.*
+*Por la introducción del uso del PLA en el laboratorio, siendo este un plástico que se adhiere mucho mejor a la cama caliente, el Kapton ha pasado a estar en deshuso.*
 
 ***Acetona***
 
