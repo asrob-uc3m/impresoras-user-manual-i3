@@ -23,7 +23,7 @@ En las siguientes imágenes se muestran ambas vistas.
 
 *Figura 3. Vista 3D.*
 
-<img src="i2.jpg" alt="i2" height="400" width="600" align="middle">
+<img src="i2.jpg" alt="i2" height="400" width="500" align="middle">
 
 *Figura 4. Visca de curvas de temperatura.*
 
