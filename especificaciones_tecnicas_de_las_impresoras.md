@@ -19,7 +19,15 @@ Para más información puede visitar estos enlaces:
 * [Desarrollo de la Prusa Mendel](https://github.com/josefprusa/Prusa3)
 * [Clone wars: Prusa iteración 3](http://reprap.org/wiki/Clone_wars:_Prusa_iteraci%C3%B3n_3)
 
-Físicamente, las impresoras a las que hace referencia este manual tienen el siguiente aspecto.
+Las impresoras a las que hace referencia este manual son las que se muestran en las siguientes figuras.
+
+<img src="blacky.JPG" alt="blacky" height="400" width="320" align="middle">
+
+*Figura 1: Impresora Blacky.*
+
+<img src="hija.JPG" alt="hija" height="400" width="320" align="middle">
+
+*Figura 2: Impresora Hija Resurrection, con soporte para la bobina de filamento incorporado.*
 
 
 
