@@ -27,7 +27,7 @@ Las impresoras a las que hace referencia este manual son las que se muestran en 
 
 <img src="hija.JPG" alt="hija" height="400" width="320" align="middle">
 
-*Figura 2: Impresora Hija Resurrection, con soporte para la bobina de filamento incorporado.*
+*Figura 2: Impresora Hija Resurrection, con soporte para la bobina de filamento y ventilación incorporada.
 
 
 
