@@ -48,7 +48,7 @@ Es el método más arcaico. Totalmente válido pero que no da unos resultados mu
 
 
 
-### 2- Recomendaciones previas del manual de mantenimiento
+### 2- Recomendaciones previas del Manual de Mantenimiento*
 
 Existen unos pasos relacionados con el mantenimiento de la impresora previo al proceso de impresión de una pieza que pueden mejorar notablemente la calidad de funcionamiento de nuestro dispositivo. Se recomienda leer con detenimiento [Recomendaciones previas - Manual de mantenimiento Impresoras 3D modelos i3](https://asrobuc3m.gitbooks.io/impresoras-maintenance-manual-i3/content/recomendaciones_previas.html).
 
