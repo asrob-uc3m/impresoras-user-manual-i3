@@ -6,6 +6,7 @@
 * [Recomendaciones previas](recomendaciones_previas.md)
 * [Primeros pasos](primeros_pasos.md)
 * [Pestaña Control Manual](pestana_control_manual.md)
+   * INTRODUCCIÓN Y EXTRACCIÓN DEL FILAMENTO DESDE LA PESTAÑA DE CONTROL MANUAL
 * [Pestaña Disposicion de Objetos](pestana_disposicion_de_objetos.md)
 * [Pestaña Slicer (Configuración del G-Code)](pestana_slicer_configuracion_del_g-code.md)
 * [Pestaña Editor G-Code (Guardar G-Code)](pestana_editor_g-code_guardar_g-code.md)
