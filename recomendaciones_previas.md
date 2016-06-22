@@ -42,3 +42,11 @@ Es el método más arcaico. Totalmente válido pero que no da unos resultados mu
 ---
 
 *Por la introducción del uso del PLA en el Laboratorio de Robótica de la UC3M -siendo este un plástico que se adhiere mucho mejor a la cama caliente- el Kapton y la acetona han pasado a estar en deshuso.*
+
+
+---
+
+
+
+
+
