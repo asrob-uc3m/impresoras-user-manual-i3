@@ -1,6 +1,6 @@
 # Transcurso de la impresión
 
-Durante la impresión no hace falta estar pendiente constantemente de la impresora, pero si es más que recomendable estar frecuentemente revisándola y comprobando que la impresión está yendo correctamente.
+Durante la impresión no hace falta prestar una atención constante a la impresora, pero se recomienda estar frecuentemente revisándola y comprobando que la impresión está yendo correctamente.
 
 En particular se **recomienda** comprobar que la bobina del **filamento** de plástico no se ha hecho un **nudo** o que los **soportes de la bobina **no se han **salido**. Si ocurriese algunas de estas cosas, la impresora podría dejar de extruir y se perderá la pieza a medio imprimir.
 
