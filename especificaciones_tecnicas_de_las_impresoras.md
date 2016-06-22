@@ -1,2 +1,2 @@
-# Especificaciones técnicas de las impresoras
+# Características de las impresoras
 
