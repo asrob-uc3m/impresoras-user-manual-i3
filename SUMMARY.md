@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* [Glosario terminológico](glosario_terminologico.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
 * [Preparación de la impresora](preparacion_de_la_impresora.md)
 * [Primeros pasos](primeros_pasos.md)
@@ -10,5 +11,4 @@
 * [Transcurso de la impresión](transcurso_de_la_impresion.md)
 * [Final de la impresión](final_de_la_impresion.md)
 * [Bibliografía](bibliografia.md)
-* [Glosario terminológico](glosario_terminologico.md)
 
