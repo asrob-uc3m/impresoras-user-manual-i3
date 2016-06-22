@@ -46,25 +46,6 @@ No obstante, al final de esta barra de botones, se encuentra también el botón 
 <img src="B.jpg" alt="i2" height="40" width="150" align="middle">
 
 
-### 3- **Pestaña Control Manual**
-
-
-En esta pestaña, como se muestra en la Figura 4, se pueden seleccionar los movimientos manuales de los motores y la asignación de las temperaturas, tanto de la base como del extrusor. Además, se puede realizar una extrusión o retracción del filamento, ya sea para realizar el cambio de una bobina de plástico o porque haya habido una obstrucción en el extrusor.
-
-Antes de nada, pulsar los botones **Calentar Extrusor** y **Calentar Plataforma**. Las temperaturas **no** es necesario **modificarlas**.
-
-Estas deberán estar siempre que se esté en modo manual en:
-
-●	Extrusor: 220º.
-
-●	Plataforma: 120º.
-	
-
-<img src="c.png" alt="c" height="600" width="500" align="middle">
-
-*Figura 5. Pestaña Control Manual.*
-
-
 
 
 

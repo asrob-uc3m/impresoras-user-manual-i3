@@ -11,5 +11,5 @@
 * [Transcurso de la impresión](transcurso_de_la_impresion.md)
 * [Final de la impresión](final_de_la_impresion.md)
 * [Bibliografía](bibliografia.md)
-* Pestaña Control Manual
+* [Pestaña Control Manual](pestana_control_manual.md)
 
