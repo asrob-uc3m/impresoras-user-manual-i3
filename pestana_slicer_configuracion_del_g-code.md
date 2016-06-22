@@ -4,13 +4,13 @@ En esta pestaña, mostrada en la siguiente figura, se puede acceder a la configu
 
 <img src="1.png" alt="1" height="400" width="300" align="middle">
 
-*Figura 10. Pestaña Slicer.*
+*Figura 17. Pestaña Slicer.*
 
 Es **recomendable** utilizar el perfil **Default** para las impresiones. No obstante, también existe la posibilidad de utilizar el perfil **Default_raft** para impresiones con material de soporte.
  
 <img src="2.png" alt="2" height="100" width="500" align="middle">
 
-*Figura 11. Perfil Default_raft.*
+*Figura 18. Perfil Default_raft.*
 
 Una vez seleccionado el perfil de Skeinforge, es posible configurar el relleno de las piezas y las capas del perímetro exterior. En la zona de Skeinforge, pulsar el botón **Configurar**.
 
@@ -33,10 +33,10 @@ Aparecerá una nueva interfaz en la que se podrán seleccionar características 
  
 <img src="3.png" alt="3" height="600" width="500" align="middle">
 
-*Figura 12. Configuración avanzada Skeinforge.*
+*Figura 19. Configuración avanzada Skeinforge.*
 
 Por último, guardar el estado de las modificaciones pulsando **Save All** y cerrar la ventana. En la pestaña en la que estábamos, darle al botón **Slice con Skeinforge** para generar el **G-Code**. Aparecerá una ventana mientras se genera.
 
 <img src="4.png" alt="4" height="200" width="500" align="middle">
  
-*Figura 13. Generando el G-Code.*
+*Figura 20. Generando el G-Code.*
