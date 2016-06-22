@@ -57,6 +57,12 @@ Al final de esta barra de botones, se encuentra también el botón de **Parada d
 
 
 
+---
+
+**A tener en cuenta**
+
+*A pesar de que en ambos  manuales se detalla el correcto uso de las impresoras mediante el software Repetier-Host en un entorno de Windows XP, eventualmente, en el laboratorio de robótica de la UC3M se comenzará a trabajar con el software Cura en el sistema Lubuntu, para más información visite los ANEXOS del Manual de Mantenimiento de estas impresoras.*
+
 
 
 
