@@ -11,7 +11,7 @@ Estas deberán estar siempre que se esté en modo manual y trabajemos con PLA en
 ●	Plataforma: 50º.
 	
 
-<img src="c.png" alt="c" height="600" width="500" align="middle">
+<img src="c.png" alt="c" height="400" width="300" align="middle">
 
 *Figura 12: Pestaña Control Manual.*
 
