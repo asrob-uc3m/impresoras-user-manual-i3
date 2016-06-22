@@ -11,7 +11,7 @@ Antes de comenzar a usar la impresora 3D, “HIJA”, debemos tener en cuenta un
 Existen varias maneras de conseguir una correcta fijación de las piezas a imprimir en la base caliente. Algunas de estas son las siguientes.
 
 
-***Laca***
+* **LACA**
 
 El uso de laca es un método que ofrece mejores resultados y cuya fijación es eficaz para la mayoría de las piezas. Este es el método de fijación más utilizado en el laboratorio por su buena relación con el PLA.
 
@@ -19,7 +19,9 @@ Para evitar que se despegue la pieza a medida que se está imprimiendo, se puede
 
 <img src="nelly.jpg" alt="nelly" height="180" width="180" align="middle">
 
-***Acetona***
+*Figura 3: Laca Nelly.*
+
+* **ACETONA**
 
 Uno de los métodos más populares para la fijación del ABS. El procedimiento de utilización es el siguiente:
 
@@ -31,11 +33,15 @@ No es necesario pausar la impresión. Tampoco es necesario esperar a que se haga
 
 <img src="acetona.png" alt="acetona" height="180" width="120" align="middle">
 
-***Kapton***
+*Figura 4: Botella de acetona.*
+
+* **KAPTON**
 
 Es el método más arcaico. Totalmente válido pero que no da unos resultados muy buenos para piezas con paredes finas o esquinadas. Se utiliza principalmente con el ABS, pues necesita una sujección más fuerte a la cama caliente. 
 
 <img src="kapton.jpg" alt="kapton" height="100" width="100" align="middle">
+
+*Figura 5: Rollo de Kapton."
 
 
 
