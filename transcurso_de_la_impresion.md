@@ -6,4 +6,4 @@ En particular se **recomienda** comprobar que la bobina del **filamento** de pl�
 
 Por estas razones, se debe **ser precavido** y si se perciben indicios de que puedan aparecer nudos intentar evitarlos desenrollando un poco el filamento.
 
-Por supuesto, para cualquier duda es recomendable de nuevo recurrir al manual de **[Preguntas Frecuentes](https://docs.google.com/document/d/120gY0sf4hBU7i_8BBuBpqSdxuIdomMd3wa2FF5AbxRI/pub)** para saber afrontar algún problema en caso de que se produzca.
+Por supuesto, para cualquier duda es recomendable de nuevo recurrir al **[Manual de mantenimiento](https://asrobuc3m.gitbooks.io/impresoras-maintenance-manual-i3/content/)** para saber afrontar algún problema en caso de que se produzca.
