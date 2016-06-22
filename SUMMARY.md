@@ -2,8 +2,8 @@
 
 * [Cover](README.md)
 * [Glosario terminológico](glosario_terminologico.md)
-* [Recomendaciones previas](recomendaciones_previas.md)
 * [Preparación de la impresora](preparacion_de_la_impresora.md)
+* [Recomendaciones previas](recomendaciones_previas.md)
 * [Primeros pasos](primeros_pasos.md)
 * [Pestaña Control Manual](pestana_control_manual.md)
 * [Pestaña Disposicion de Objetos](pestana_disposicion_de_objetos.md)
