@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 * [Glosario terminológico](glosario_terminologico.md)
-* [Especificaciones técnicas de las impresoras](especificaciones_tecnicas_de_las_impresoras.md)
+* [Características de las impresoras](especificaciones_tecnicas_de_las_impresoras.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
 * [Primeros pasos](primeros_pasos.md)
 * [Pestaña Control Manual](pestana_control_manual.md)
