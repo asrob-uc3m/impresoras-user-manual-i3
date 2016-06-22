@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* [Especificaciones técnicas de las impresoras](especificaciones_tecnicas_de_las_impresoras.md)
 * [Glosario terminológico](glosario_terminologico.md)
 * [Recomendaciones previas](recomendaciones_previas.md)
 * [Primeros pasos](primeros_pasos.md)
@@ -11,5 +12,4 @@
 * [Transcurso de la impresión](transcurso_de_la_impresion.md)
 * [Final de la impresión](final_de_la_impresion.md)
 * [Bibliografía](bibliografia.md)
-* [Especificaciones técnicas de las impresoras](especificaciones_tecnicas_de_las_impresoras.md)
 
