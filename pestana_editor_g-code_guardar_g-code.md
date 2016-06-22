@@ -10,5 +10,7 @@ Una vez generado el G-Code, aparecerá automáticamente en esta pestaña y en la
 
  <img src="6.png" alt="6" height="300" width="500" align="middle">
  
-*Figura 15. Código G-Code.*
+*Figura 15. Código G-Code.
+
+
 
