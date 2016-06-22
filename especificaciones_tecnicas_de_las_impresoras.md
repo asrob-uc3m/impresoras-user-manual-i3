@@ -1,6 +1,6 @@
 # Características de las impresoras
 
-Las impresoras *Blacky* e *Hija Resurrection* son impresoras **Prusa i3**, es decir, son la tercera iteración del diseño de impresoras 3D prusa por el desarrollador principal de RepRap Prusajr.
+Las impresoras *Blacky* e *Hija Resurrection* son impresoras **Prusa i3**, es decir, son la tercera iteración del diseño de impresoras 3D prusa por el desarrollador principal de RepRap Prusajr. Ambas trabajan con filamentos de 1,75mm de diámetro.
 
 Las principales mejoras principales hechas sobre la segunda iteración son:
 
@@ -27,8 +27,13 @@ Las impresoras a las que hace referencia este manual son las que se muestran en 
 
 <img src="hija.JPG" alt="hija" height="400" width="320" align="middle">
 
-*Figura 2: Impresora Hija Resurrection, con soporte para la bobina de filamento y ventilación incorporada.
+*Figura 2: Impresora Hija Resurrection.*
 
+Entre ambas impresoras existen ligeras **diferencias**, potenciadas por el espacio de tiempo de fabricación de una con respecto a la otra, siendo la impresora *Blacky* más antigua que la impresora *Hija Resurrection*.
+
+La impresora *Hija Resurrection*, a diferencia de la impresora *Blacky*, consta de **extrusor directo** y sistema de **ventilación** para el motor anexo al extrusor, además de contar con una **sujección** superior para las bobinas del filamento, lo que es un punto positivo en materia de evitar enredos.
+
+En cuanto a los materiales del marco, el de la impresora *Blacky *está hecho de **metacrilato** negro y el de la impresora *Hija Resurrection*, de **acero inoxidable**.
 
 
 
