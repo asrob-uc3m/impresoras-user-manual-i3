@@ -31,20 +31,25 @@ En las siguientes imágenes se muestran ambas vistas.
 
 ### 2- **Conexión Ordenador - Impresora**
 
+Este es el primer paso cuando se desea trabajar con una impresora 3D.
 
+Se debe comprobar que el **cable USB** está **conectado** de la impresora al ordenador. Una vez comprobado, encender la impresora presionando el interruptor situado en la parte inferior de la fuente de alimentación, a la derecha de la impresora.
 
 Para establecer la conexión entre el ordenador y la impresora 3D, hacer click en el icono **Conectar**, situado arriba a la izquierda del programa. Se puede identificar en la siguiente figura.
 
 <img src="A.jpg" alt="i2" height="40" width="600" align="middle">
- 
-En la barra de estado, situada en la parte baja de la ventana del programa, aparecerá ahora el estado **Conectado**.
 
-Además, en esta parte de la interfaz existen otra serie de botones que en principio no harán falta tocarlos en ningún momento.
-
-No obstante, al final de esta barra de botones, se encuentra también el botón de **Parada de Emergencia**, este botón se utilizará en el caso de que haya habido algún problema con la impresora, su funcionamiento se basa en resetear la placa controladora de la impresora e inicializar la conexión.
+Al final de esta barra de botones, se encuentra también el botón de **Parada de Emergencia**, este botón se utilizará en el caso de que haya habido algún problema con la impresora, su funcionamiento se basa en resetear la placa controladora de la impresora e inicializar la conexión.
 
 <img src="B.jpg" alt="i2" height="40" width="150" align="middle">
 
+
+---
+
+
+**Recuerda**
+
+*Si te surge alguna duda o problema que no pueda responderte ni este, ni ningún otro manual, solicita ayuda a algún operador, al becario correspondiente o a tu profesor responsable; y hazlo saber para que pueda aparecer la respuesta a tu duda en alguno de los manuales.*
 
 
 
