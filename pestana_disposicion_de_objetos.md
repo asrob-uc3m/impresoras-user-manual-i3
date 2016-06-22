@@ -26,4 +26,4 @@ En la siguiente imagen se puede observar cómo quedarían las piezas en la vista
 
 <img src="G.png" alt="G" height="400" width="600" align="middle">
 
-*Figura 15: Vistas de pieza 3D.*
+*Figura 16: Vistas de pieza 3D.*
