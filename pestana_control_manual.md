@@ -1,6 +1,6 @@
 # Pestaña Control Manual
 
-En esta pestaña, como se muestra en la Figura 5, se pueden seleccionar los movimientos manuales de los motores y la asignación de las temperaturas, tanto de la base como del extrusor. Además, se puede realizar una extrusión o retracción del filamento, ya sea para realizar el cambio de una bobina de plástico o porque haya habido una obstrucción en el extrusor.
+En esta pestaña, como se muestra en la Figura 12, se pueden seleccionar los movimientos manuales de los motores y la asignación de las temperaturas, tanto de la base como del extrusor. Además, se puede realizar una extrusión o retracción del filamento, ya sea para realizar el cambio de una bobina de plástico o porque haya habido una obstrucción en el extrusor.
 
 Antes de nada, pulsar los botones **Calentar Extrusor** y **Calentar Plataforma**. Las temperaturas **no** es necesario **modificarlas**.
 
@@ -13,7 +13,7 @@ Estas deberán estar siempre que se esté en modo manual y trabajemos con PLA en
 
 <img src="c.png" alt="c" height="600" width="500" align="middle">
 
-*Figura 5. Pestaña Control Manual.*
+*Figura 12: Pestaña Control Manual.*
 
 
 
