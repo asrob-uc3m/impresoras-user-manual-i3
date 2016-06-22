@@ -1,4 +1,4 @@
-# Preparación de la impresora
+# Conexión de la impresora
 
 Este es el primer paso cuando se desea trabajar con una impresora 3D.
 
