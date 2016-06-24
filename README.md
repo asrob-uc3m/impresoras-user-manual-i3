@@ -32,7 +32,7 @@ Este es el manual de usuario de las impresoras de la Asociación de Robótica de
 
 
 
-**Este manual es una guía y nunca sustituirá la formación previa de un operador.**
+**Este manual es una guía y nunca sustituirá la formación previa de un [operador](http://ieee.uc3m.es/index.php/Operadores#Operadores_Autorizados).**
 
 * 
 Read me at: [GitBook](https://www.gitbook.com/book/asrobuc3m/impresoras-user-manual-i3/details)
