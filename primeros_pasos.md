@@ -53,7 +53,7 @@ Al final de esta barra de botones, se encuentra también el botón de **Parada d
 
 **Recuerda**
 
-*Si te surge alguna duda o problema que no pueda responderte ni este, ni ningún otro manual, solicita ayuda a algún operador, al becario correspondiente o a tu profesor responsable; y hazlo saber para que pueda aparecer la respuesta a tu duda en alguno de los manuales.*
+*Si te surge alguna duda o problema que no pueda responderte ni este, ni ningún otro manual, solicita [ayuda](http://ieee.uc3m.es/index.php/Operadores#Operadores_Autorizados) a algún operador, al becario correspondiente o a tu profesor responsable; y hazlo saber para que pueda aparecer la respuesta a tu duda en alguno de los manuales.*
 
 
 
