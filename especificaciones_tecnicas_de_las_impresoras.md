@@ -29,7 +29,7 @@ Las impresoras a las que hace referencia este manual son las que se muestran en 
 
 *Figura 2: Impresora Hija Resurrection.*
 
-Entre ambas impresoras existen ligeras **diferencias**, potenciadas por el espacio de tiempo de fabricación de una con respecto a la otra, siendo la impresora *Blacky* más antigua que la impresora *Hija Resurrection*.
+Entre ambas impresoras existen pequeñas **diferencias**, siendo la impresora *Blacky* ligeramente más reciente que la impresora *Hija Resurrection*.
 
 La impresora *Hija Resurrection*, a diferencia de la impresora *Blacky*, consta de **extrusor directo** y sistema de **ventilación** para el motor anexo al extrusor, además de contar con una **sujección** superior para las bobinas del filamento, lo que es un punto positivo en materia de evitar enredos.
 
