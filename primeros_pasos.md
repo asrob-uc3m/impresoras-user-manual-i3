@@ -1,4 +1,4 @@
-# Primeros pasos
+# 1. Primeros pasos
 
 
 ### 1- **Abrir el programa de Repetier-Host**
