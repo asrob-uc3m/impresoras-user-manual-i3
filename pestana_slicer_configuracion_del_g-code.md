@@ -1,4 +1,4 @@
-# Pestaña Slicer (Configuración del G-Code)
+# 4. Pestaña Slicer (Configuración del G-Code)
 
 En esta pestaña, mostrada en la siguiente figura, se puede acceder a la configuración de la impresora para la pieza a imprimir.
 
