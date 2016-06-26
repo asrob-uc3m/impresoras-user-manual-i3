@@ -1,4 +1,4 @@
-# Final de la impresión
+# 7. Final de la impresión
 
 Si ya ha finalizado el proceso de impresión, la pieza se encuentra lista para ser retirada una vez se haya enfriado la cama caliente. Si no dejamos que la base se enfríe, será complicado despegarla.
 
