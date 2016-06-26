@@ -1,4 +1,4 @@
-# Transcurso de la impresión
+# 6. Transcurso de la impresión
 
 Durante la impresión no hace falta prestar una atención constante a la impresora, pero se recomienda revisar y comprobar con frecuencia que el proceso de impresión está transcurriendo de forma correcta.
 
