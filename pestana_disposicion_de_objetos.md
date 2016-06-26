@@ -1,4 +1,4 @@
-# Pestaña Disposicion de Objetos
+# 3. Pestaña Disposicion de Objetos
 
 Esta pestaña permite incorporar los distintos objetos que se van a imprimir a la plataforma virtual.
  
