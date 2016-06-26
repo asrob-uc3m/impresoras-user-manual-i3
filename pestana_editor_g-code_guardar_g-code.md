@@ -1,4 +1,4 @@
-# Pestaña Editor G-Code (Guardar G-Code)
+# 5. Pestaña Editor G-Code (Guardar G-Code)
 
 Al contrario que otros programas, el G-Code generado con RepetierHost, **no se guarda automáticamente**, y por ello si se desea guardar para futuras impresiones es preciso ir a la pestaña editor G-Code y pulsar sobre el botón de **guardar** (símbolo del disquete).
 
