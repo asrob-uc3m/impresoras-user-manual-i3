@@ -1,4 +1,4 @@
-# 1. Pestaña Control Manual
+# 2. Pestaña Control Manual
 
 En esta pestaña, como se muestra en la Figura 12, se pueden seleccionar los movimientos manuales de los motores y la asignación de las temperaturas, tanto de la base como del extrusor. Además, se puede realizar una extrusión o retracción del filamento, ya sea para realizar el cambio de una bobina de plástico o porque haya habido una obstrucción en el extrusor.
 
