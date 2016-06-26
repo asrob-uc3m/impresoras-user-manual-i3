@@ -10,7 +10,7 @@
 * [3. Pestaña Disposicion de Objetos](pestana_disposicion_de_objetos.md)
 * [4. Pestaña Slicer (Configuración del G-Code)](pestana_slicer_configuracion_del_g-code.md)
 * [5. Pestaña Editor G-Code (Guardar G-Code)](pestana_editor_g-code_guardar_g-code.md)
-* [Transcurso de la impresión](transcurso_de_la_impresion.md)
+* [6. Transcurso de la impresión](transcurso_de_la_impresion.md)
 * [Final de la impresión](final_de_la_impresion.md)
 * [Bibliografía](bibliografia.md)
 
