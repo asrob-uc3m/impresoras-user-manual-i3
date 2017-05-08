@@ -15,12 +15,9 @@ Este obra está bajo una licencia de [Creative Commons Reconocimiento-NoComercia
 ](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES)
 
 **Autores:** 
-* 
-**Jennifer Joana Gago Muñoz (2016-presente)**
-* 
-**Juan G Victores (2016-presente)**
-* 
-**Raúl Pérula-Martínez (2012-2015: [enlace](https://docs.google.com/document/d/1b7sLQl3vPjp7CNvayk5mEjHVgoPj9QuWfPiRglXKoq4/pub))**
+* **Jennifer Joana Gago Muñoz (2016-presente)**
+* **Juan G Victores (2016-presente)**
+* **Raúl Pérula-Martínez (2012-2015: [enlace](https://docs.google.com/document/d/1b7sLQl3vPjp7CNvayk5mEjHVgoPj9QuWfPiRglXKoq4/pub))**
 
 
 
@@ -34,6 +31,5 @@ Este es el manual de usuario de las impresoras de la Asociación de Robótica de
 
 **Este manual es una guía y nunca sustituirá la formación previa de un [operador](http://ieee.uc3m.es/index.php/Operadores#Operadores_Autorizados).**
 
-* 
-Read me at: [GitBook](https://www.gitbook.com/book/asrobuc3m/impresoras-user-manual-i3/details)
+* Read me at: [GitBook](https://www.gitbook.com/book/asrob-uc3m/impresoras-user-manual-i3/details)
 * Hosted at: [Github](https://github.com/asrob-uc3m/impresoras-user-manual-i3)
