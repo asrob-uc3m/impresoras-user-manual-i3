@@ -2,7 +2,7 @@
 
 En esta pestaña, mostrada en la siguiente figura, se puede acceder a la configuración de la impresora para la pieza a imprimir.
 
-<img src="1.png" alt="1" height="400" width="300" align="middle">
+<img src="image02.png" alt="1" height="400" width="300" align="middle">
 
 *Figura 17. Pestaña Slicer.*
 
