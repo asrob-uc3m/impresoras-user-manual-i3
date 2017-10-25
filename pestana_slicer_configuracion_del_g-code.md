@@ -12,7 +12,7 @@ Actualmente se esta empleando el perfil **config-brim (JorFru)** como sustituto 
  
 <img src="image03.png" alt="2" height="75" width="500" align="middle">
 
-*Figura 18. Perfil Default_raft.*
+*Figura 18. Perfil config-brim (JorFru).*
 
 Una vez seleccionado el perfil de Slicer, es posible configurar el relleno de las piezas y las capas del perímetro exterior. En la zona de Slicer, pulsar el botón **Configurar**.
 
