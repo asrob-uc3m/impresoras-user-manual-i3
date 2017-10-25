@@ -8,7 +8,7 @@ Esta pestaña permite incorporar los distintos objetos que se van a imprimir a l
 
 Es posible **añadir** tantas **piezas** como las dimensiones de la plataforma permitan y colocarlas de forma independiente con sólo seleccionarlas.
 
-  <img src="E.png" alt="E" height="400" width="300" align="middle">
+  <img src="image08.png" alt="E" height="400" width="300" align="middle">
  
 *Figura 14: Añadir piezas o realizar operaciones.*
 
