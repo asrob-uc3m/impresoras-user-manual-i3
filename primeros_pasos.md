@@ -6,7 +6,7 @@
 
 Para abrir el programa que controla la impresora, hacer doble click en el icono del Escritorio  “Repetier-Host”. Obsérvese el icono del software en la Figura 6.
 
-<img src="rh.jpg" alt="rh" height="100" width="100" align="middle">
+<img src="image11.png" alt="rh" height="100" width="100" align="middle">
 
 *Figura 6: Acceso directo a Repetier-Host.*
 
