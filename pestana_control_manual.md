@@ -4,14 +4,14 @@ En esta pestaña, como se muestra en la Figura 12, se pueden seleccionar los mov
 
 Antes de nada, pulsar los botones **Calentar Extrusor** y **Calentar Plataforma**. Las temperaturas **no** es necesario **modificarlas**.
 
-Estas deberán estar siempre que se esté en modo manual y trabajemos con PLA en:
+Estas deberán estar siempre que se esté en modo manual y trabajemos con ABS en:
 
-●	Extrusor: 180º.
+●	Extrusor: 215ºC.
 
-●	Plataforma: 50º.
+●	Plataforma: 100ºC.
 	
 
-<img src="c.png" alt="c" height="400" width="300" align="middle">
+<img src="image01.png" alt="c" height="400" width="300" align="middle">
 
 *Figura 12: Pestaña Control Manual.*
 
