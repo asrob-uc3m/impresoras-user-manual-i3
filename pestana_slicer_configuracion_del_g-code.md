@@ -33,12 +33,20 @@ Aparecerá una nueva interfaz en la que se podrán seleccionar características 
 
 
  
-<img src="3.png" alt="3" height="600" width="500" align="middle">
+<img src="image04.png" alt="3" height="600" width="500" align="middle">
 
-*Figura 19. Configuración avanzada Skeinforge.*
+*Figura 19. Configuración avanzada Slicer 1.*
+
+<img src="image05.png" alt="3" height="600" width="500" align="middle">
+
+*Figura 20. Configuración avanzada Slicer 2.*
+
+<img src="image06.png" alt="3" height="600" width="500" align="middle">
+
+*Figura 21. Configuración avanzada Slicer 3.*
 
 Por último, guardar el estado de las modificaciones pulsando **Save All** y cerrar la ventana. En la pestaña en la que estábamos, darle al botón **Slice con slic3r** para generar el **G-Code**. Aparecerá una ventana mientras se genera.
 
 <img src="4.png" alt="4" height="200" width="500" align="middle">
  
-*Figura 20. Generando el G-Code.*
+*Figura 22. Generando el G-Code.*
