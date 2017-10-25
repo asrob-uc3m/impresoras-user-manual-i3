@@ -44,7 +44,7 @@ Para establecer la conexión entre el ordenador y la impresora 3D, hacer click e
 
 Al final de esta barra de botones, se encuentra también el botón de **Parada de Emergencia**, este botón se utilizará en el caso de que haya habido algún problema con la impresora, su funcionamiento se basa en resetear la placa controladora de la impresora e inicializar la conexión.
 
-<img src="image13.png" alt="i2" height="40" width="150" align="middle">
+<img src="image13.png" alt="i2" height="50" width="200" align="middle">
 
 *Figura 11: Final de la barra del software Repetier Host.*
 
