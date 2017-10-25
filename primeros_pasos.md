@@ -44,7 +44,7 @@ Para establecer la conexión entre el ordenador y la impresora 3D, hacer click e
 
 Al final de esta barra de botones, se encuentra también el botón de **Parada de Emergencia**, este botón se utilizará en el caso de que haya habido algún problema con la impresora, su funcionamiento se basa en resetear la placa controladora de la impresora e inicializar la conexión.
 
-<img src="B.jpg" alt="i2" height="40" width="150" align="middle">
+<img src="image13.png" alt="i2" height="40" width="150" align="middle">
 
 *Figura 11: Final de la barra del software Repetier Host.*
 
@@ -61,7 +61,7 @@ Al final de esta barra de botones, se encuentra también el botón de **Parada d
 
 **A tener en cuenta**
 
-*A pesar de que en ambos  manuales se detalla el correcto uso de las impresoras mediante el software Repetier-Host en un entorno de Windows XP, eventualmente, en el laboratorio de robótica de la UC3M se comenzará a trabajar con el software Cura en el sistema Lubuntu, para más información visite los ANEXOS [1](https://asrobuc3m.gitbooks.io/impresoras-maintenance-manual-i3/content/anexo_2_sistema_operativo_y_sofware.html) y [2 ](https://asrobuc3m.gitbooks.io/impresoras-maintenance-manual-i3/content/anexo_1_archivos_de_configuracion.html)del Manual de Mantenimiento de estas impresoras.*
+*A pesar de que en ambos  manuales se detalla el correcto uso de las impresoras mediante el software Repetier-Host en un entorno de Lubuntu, eventualmente, en el laboratorio de robótica de la UC3M se podría trabajar con el software Cura en el sistema Lubuntu y/o Windows XP, para más información visite los ANEXOS [1](https://asrobuc3m.gitbooks.io/impresoras-maintenance-manual-i3/content/anexo_2_sistema_operativo_y_sofware.html) y [2 ](https://asrobuc3m.gitbooks.io/impresoras-maintenance-manual-i3/content/anexo_1_archivos_de_configuracion.html)del Manual de Mantenimiento de estas impresoras.*
 
 
 
