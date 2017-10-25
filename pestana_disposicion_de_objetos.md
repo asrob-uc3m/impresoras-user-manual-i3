@@ -18,12 +18,12 @@ Para **añadir** las** piezas** a la plataforma, se pulsa el botón con **símbo
 
 En este menú se puede rotar y trasladar las piezas para un mejor posicionamiento. En este caso, estas operaciones se tendrán que realizar de manera numérica, teniendo que escribir cada uno de los valores.
 
-<img src="image09.png" alt="F" height="400" width="50" align="middle">
+<img src="image10.png" alt="F" height="400" width="50" align="middle">
 
 *Figura 15: Barra de operaciones manuales.*
 
 En la siguiente imagen se puede observar cómo quedarían las piezas en la vista 3D.
 
-<img src="G.png" alt="G" height="400" width="600" align="middle">
+<img src="image07.png" alt="G" height="400" width="600" align="middle">
 
 *Figura 16: Vistas de pieza 3D.*
