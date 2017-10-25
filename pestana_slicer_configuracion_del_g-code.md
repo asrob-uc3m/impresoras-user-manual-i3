@@ -7,8 +7,10 @@ En esta pestaña, mostrada en la siguiente figura, se puede acceder a la configu
 *Figura 17. Pestaña Slicer.*
 
 Es **recomendable** utilizar el perfil **Default** para las impresiones. No obstante, también existe la posibilidad de utilizar el perfil **Default_raft** para impresiones con material de soporte.
+**Nota:**
+Actualmente se esta empleando el perfil **config-brim (JorFru)** como sustituto al perfil **Default**
  
-<img src="image03.png" alt="2" height="100" width="500" align="middle">
+<img src="image03.png" alt="2" height="75" width="500" align="middle">
 
 *Figura 18. Perfil Default_raft.*
 
