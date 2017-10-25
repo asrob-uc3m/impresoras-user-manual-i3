@@ -2,7 +2,7 @@
 
 Esta pestaña permite incorporar los distintos objetos que se van a imprimir a la plataforma virtual.
  
-<img src="D.png" alt="D" height="400" width="300" align="middle">
+<img src="image14.png" alt="D" height="400" width="300" align="middle">
  
 *Figura 13: Pestaña Disposición de Objetos.*
 
