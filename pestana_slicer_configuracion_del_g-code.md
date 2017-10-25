@@ -37,7 +37,7 @@ Aparecerá una nueva interfaz en la que se podrán seleccionar características 
 
 *Figura 19. Configuración avanzada Slicer 1.*
 
-<img src="image05.png" alt="3" height="600" width="500" align="middle">
+<img src="image05.png" alt="3" height="800" width="700" align="middle">
 
 *Figura 20. Configuración avanzada Slicer 2.*
 
