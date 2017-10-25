@@ -43,8 +43,5 @@ Aparecerá una nueva interfaz en la que se podrán seleccionar características 
 
 *Figura 21. Configuración avanzada Slicer 3.*
 
-Por último, guardar el estado de las modificaciones pulsando **Save All** y cerrar la ventana. En la pestaña en la que estábamos, darle al botón **Slice con slic3r** para generar el **G-Code**. Aparecerá una ventana mientras se genera.
+Por último, guardar el estado de las modificaciones pulsando **Save All** y cerrar la ventana. En la pestaña en la que estábamos, darle al botón **Slice con slic3r** para generar el **G-Code**. Aparecerá una barra de progreso mientras se genera.
 
-<img src="4.png" alt="4" height="200" width="500" align="middle">
- 
-*Figura 22. Generando el G-Code.*
