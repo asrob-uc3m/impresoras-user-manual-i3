@@ -24,9 +24,9 @@ En las siguientes imágenes se muestran ambas vistas:
 
 *Figura 8: Vista 3D.*
 
-<img src="i2.jpg" alt="i2" height="400" width="500" align="middle">
+<img src="image12.png" alt="i2" height="400" width="500" align="middle">
 
-*Figura 9: Visca de curvas de temperatura.*
+*Figura 9: Vista de curvas de temperatura.*
 
 
 
