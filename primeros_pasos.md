@@ -12,7 +12,7 @@ Para abrir el programa que controla la impresora, hacer doble click en el icono 
 
 En ese momento se abrirá el programa y se mostrará la interfaz mostrada en la siguiente figura.
 
-<img src="irh.jpg" alt="irh" height="400" width="500" align="middle">
+<img src="figure7.png" alt="irh" height="400" width="500" align="middle">
 
 *Figura 7: Interfaz de Repetier-Host.*
 
