@@ -8,7 +8,7 @@ Al contrario que otros programas, el G-Code generado con RepetierHost, **no se g
 
 Una vez generado el G-Code, aparecerá automáticamente en esta pestaña, y en la vista 3D aparecerán reposicionados, con respecto a las coordenadas de la impresora, las piezas a imprimir.
 
- <img src="6.png" alt="6" height="300" width="400" align="middle">
+ <img src="image6.png" alt="6" height="300" width="400" align="middle">
  
 *Figura 22. Código G-Code.
 
